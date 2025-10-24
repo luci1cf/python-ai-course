@@ -125,6 +125,6 @@
 #     tickets -= n
 #     print(f'Tickets left: {tickets}')
 
-    if tickets == 0:
-        print('Sold out!')
-        break
+    # if tickets == 0:
+    #     print('Sold out!')
+    #     break
