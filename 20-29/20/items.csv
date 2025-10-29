@@ -1,0 +1,13 @@
+Item,Material,CostPerUnit
+Wall,Concrete,1550
+Floor,Wood,100
+Roof,Tile,200
+Ceiling,Drywall,80
+Door,Wood,120
+Window,Glass,90
+Column,Steel,300
+Beam,Steel,250
+Foundation,Concrete,500
+Stair,Concrete,350
+Toilet,Gold,9999
+Toilet,Gold,9999
