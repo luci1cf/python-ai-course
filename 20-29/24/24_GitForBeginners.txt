@@ -1,0 +1,2 @@
+Skipped this lesson because I am already familiar with Git and
+the way that it works, which can be seen in this project on GitHub
